@@ -1,4 +1,4 @@
-# Graduation Project
+# Final Project
 
 This project is designed for ALS patient with paralysis of the whole body to communicate by blinking only.
 
