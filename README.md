@@ -1,4 +1,4 @@
-# ELE-495-Bitirme
+# Graduation Project
 
 This project is designed for ALS patient with paralysis of the whole body to communicate by blinking only.
 Considering the patient's condition, the pupil must shift left and right on the first screen. If the pupil moves to the right, the patient states his own condition.
