@@ -31,5 +31,4 @@ The selection is written on a separate white screen, so the ALS patient indicate
 After making a selection, the patient comes back to the start screen and can print another word again with the same steps.
 
 
-Outputs are attached :
-https://github.com/volkaankarakus/FinalProject/issues/1
+![image1](https://vkarakuscom.files.wordpress.com/2021/01/fin1-4.png?w=980&h=&zoom=2)
