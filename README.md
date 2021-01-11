@@ -32,3 +32,9 @@ After making a selection, the patient comes back to the start screen and can pri
 
 
 ![image1](https://vkarakuscom.files.wordpress.com/2021/01/fin1-4.png?w=980&h=&zoom=2)
+![image2](https://vkarakuscom.files.wordpress.com/2021/01/fin2-4.png?w=980&h=&zoom=2)
+![image3](https://vkarakuscom.files.wordpress.com/2021/01/fin3-4.png?w=1250&h=)
+![image4](https://vkarakuscom.files.wordpress.com/2021/01/fin4-3.png?w=1250&h=)
+![image5](https://vkarakuscom.files.wordpress.com/2021/01/fin5-3.png?w=1250&h=)
+![image6](https://vkarakuscom.files.wordpress.com/2021/01/fin6-1.png?w=1250&h=)
+![image7](https://vkarakuscom.files.wordpress.com/2021/01/fin7.png?w=875&h=)
